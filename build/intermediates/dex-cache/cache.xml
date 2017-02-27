@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c538e289f5a2ddc0d2cfed4931fd604dbf9683fb">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e34da3618e45ef5cbc52cedc6b07b7eff229b814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_a82f2a16dae06da24d4b6e781ea3f95fdb4cd2f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_6ad30e98c7e33b70fd082cbc913f22ea418e4acd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.5.1_31c1235c29ebadfbd6ec082746d6758b53436690/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_c8a101aa9e37d3c06d925c6cf0134767c5aff56b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02ca17bf66846e1ee0e58dbea7baec6352134163">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b5b2b63dd93621df162a773ec53f9e0db140d96c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_0de1fae8b0151ed3445fa535c6eac2200f0ce7a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_a58781b9da8ed933ce050c82f09558b1d4182c65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_c177569dfca13d5ebccd89ad1d302e5ce785b033/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_4c390a8556800d85438c7b5c4924b6a908dcb629/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_ad55c449a9330ac779afbd98d999d201ef1f9ca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_8eb190cb7b00b5ae6bd48252d0085f350b728c6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_42570350cbb54ae0bb42110c850196118f565280/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_5b21259a408e96845be026de0e9a9fd3ef1713ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_4c6d0d5360ff71a7aa9f5826cc15c455abfeb9d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_083e4fa401d672217174267eaa58fcbebdf8c0f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_dd3fb326e7413588e0ee889b8acf1ef0b1fb6830/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_32f4d6f61748d697a11f7551b289fcb6c87b973c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_535afe59f6d72e2b01ce7824479706d282f0c099/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_4683403aa5b54d49f28e7b957708f712c9154243/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_b978df183e928421b77636341c80679ae034268a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_920551d3a74eba73089be3baa11e5db848daa3d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_616e201d61e7f8486a1ecad15dadf639823e5eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_000aaecb1b7aa9908d952acb230caa0c5b1ab70a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_d054088e6dcc24833ea4a83ab91207e907cf4449/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="571692a263695e80146fcc06c8c5e52e67d19bd3">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_094fab8c9d7df485d37df1260dcf46028e22548f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_a8ad48309df9ee7c71d62a02a66acd7943a692e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_1c7660279a3cded4cabc0d0ef2019c291bb6b23b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c1c1726920f4a9d52967a07cfca929f8e1389a0">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_433f4ea5e286eb8f9be9f5b395fbffdc37fb7ef0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_133750a96c2e535f10dc6cec157d09da4fac2b60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/josemanuel/Cartas/JausOfCard/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_c9f5caf425dd68b10024d7c79c5f91c59dc55d94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/josemanuel/CartasChema/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/home/josemanuel/CartasChema/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.5.1_8e118231ed220a384039a1e5942d701219bbf764/classes.dex" />
+    </item>
+
+</items>
